@@ -1,9 +1,9 @@
 {
-    "title":"近期活动",
+    "title":"test1",
     "list": [
         {
             "type": 1,
-            "msg": "",
+            "msg": "注册赠送58元，首次存款10元送20元.",
             "content": [
                 {
                     "image": "https://picsum.photos/1000",
@@ -20,78 +20,80 @@
             ]
         },
         {
-            "type": 5,
+            "type": 2,
             "content": [
-                
                 {
-                    "id":"31454068",
-                    "image": "https://img1.doubanio.com/pview/event_poster/median/public/cc5bc6640baa10c.jpg",
-                    "text": "第三届深焦华语影评人大赛"
+                    "text": "线路一（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
                 },
                 {
-                    "id":"31467800",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/2e251ba5d1a566f.jpg",
-                    "text": "东野圭吾悬疑舞台剧《回廊亭杀人事件》"
+                    "text": "线路二（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
                 },
                 {
-                    "id":"31741764",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/e11a2e3de5fa595.jpg",
-                    "text": "四合院里包饺子，还有什么比这跟腊八节更配呢"
+                    "text": "线路三（注册送58,请走这边）",
+                    "bnt": "进入游戏",
+                    "web": "https://www.google.com/"
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zhifubao.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "56ABE4"
                 },
                 {
-                    "id":"31741281",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/02c4e8def0a1b06.jpg",
-                    "text": "阅读简平思享会（角楼图书馆 北京）"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/weixin.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "73E235"
                 },
                 {
-                    "id":"31740969",
-                    "image": "https://img1.doubanio.com/pview/event_poster/median/public/5c9b095a04a1f0c.jpg",
-                    "text": "摩登时代的A面与B面——了不起的菲茨杰拉德"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shouji.png",
+                    "text": "快速充值",
+                    "web": "https://www.yahoo.com",
+                    "color": "7B86E4"
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "content": [
+                {
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/shishifanshui.png",
+                    "text": "自助反水1",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id":"31740463",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/a0b5110243ee176.jpg",
-                    "text": "《安徒生自传：我的童话人生》新书分享会"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huodongdating.png",
+                    "text": "自助反水2",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id":"31740391",
-                    "image": "https://img3.doubanio.com/pview/event_poster/median/public/5b71993813485ee.jpg",
-                    "text": "#豆瓣书榜分享会#「 房思琪的初恋乐园 」"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/money.png",
+                    "text": "自助反水3",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id":"31739189",
-                    "image": "https://img3.doubanio.com/pview/event_poster/median/public/4bba59dc032d265.jpg",
-                    "text": "艺术留学｜这场罗德岛设计学院全解码，就都给我嗑了吧！"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/vip.png",
+                    "text": "自助反水4",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id":"31739157",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e965e931e7d724.jpg",
-                    "text": "我们在生活中遗失的生命何在？——《T.S.艾略特传》新书分享会"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/zaixiankefu.png",
+                    "text": "自助反水5",
+                    "web": "https://www.yahoo.com"
                 },
                 {
-                    "id":"31738877",
-                    "image": "https://img3.doubanio.com/pview/event_poster/median/public/5da1975aca95d60.jpg",
-                    "text": "佛缘阁《姓名学》1月12、13日 周六日两天免费课程"
-                },
-                {
-                    "id":"31737894",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/8743b9c5835dd43.jpg",
-                    "text": "户外休闲爬山徒步活动 （几乎每周六举行）"
-                },
-                {
-                    "id":"31737238",
-                    "image": "https://img1.doubanio.com/pview/event_poster/median/public/7c7754645351ab7.jpg",
-                    "text": "噗哧脱口秀北京周三琥珀精酿开放麦"
-                },
-                {
-                    "id":"31736921",
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/ee7e172ef753615.jpg",
-                    "text": "宅男宅女终结社，拒宅主义 ~ 每天组织有趣儿的活动"
-                },
-                {
-                    "id":"31736918",
-                    "image": "https://img3.doubanio.com/pview/event_poster/median/public/185ee664fb88623.jpg",
-                    "text": "暮美集·黑白大画幅胶片人像摄影展"
+                    "image": "http://104.199.204.78/KZINGBaccarat/images/huiyaunzhuche.png",
+                    "text": "自助反水6",
+                    "web": "https://www.yahoo.com"
                 }
             ]
         }

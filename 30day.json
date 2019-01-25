@@ -1,0 +1,43 @@
+{
+    "title": "近期活动",
+    "list": [
+        {
+            "type": 1,
+            "msg": "所有活动都免费哦，大家踊跃参加。",
+            "content": [
+                {
+                    "image": "https://2635573591.github.io/Activity/1.png",
+                    "web": ""
+                },
+                {
+                    "image": "https://2635573591.github.io/Activity/2.png",
+                    "web": ""
+                }
+            ]
+        },
+        {
+            "type": 8,
+            "msg": "test",
+            "content": [
+                
+            ]
+        },
+        {
+            "type": 5,
+            "content": [
+                {
+                    "id": "31454068",
+                    "image": "https://img1.doubanio.com/pview/event_poster/median/public/cc5bc6640baa10c.jpg",
+                    "text": "第三届深焦华语影评人大赛",
+                    "time": "2019年02月07日"
+                },
+                {
+                    "id": "31467800",
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/2e251ba5d1a566f.jpg",
+                    "text": "东野圭吾悬疑舞台剧《回廊亭杀人事件》",
+                    "time": "2019年02月20日"
+                }
+            ]
+        }
+    ]
+}

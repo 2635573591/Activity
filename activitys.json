@@ -14,6 +14,12 @@
             "vc":"ViewController5",
             "img":"user",
             "name":"功能设定"
+        },
+        {
+            "vc":"ViewController7",
+            "img":"user",
+            "name":"功能设定"
         }
+
     ]
 }

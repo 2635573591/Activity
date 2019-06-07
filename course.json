@@ -3,7 +3,7 @@
     "list": [
         {
             "type": 1,
-            "msg": "注册赠送58元，首次存款10元送20元.",
+            "msg": "我是公告内容",
             "content": [
                 {
                     "image": "https://picsum.photos/1000",
@@ -23,17 +23,17 @@
             "type": 2,
             "content": [
                 {
-                    "text": "线路一（注册送58,请走这边）",
+                    "text": "线路一",
                     "bnt": "进入游戏",
                     "web": "https://www.google.com/"
                 },
                 {
-                    "text": "线路二（注册送58,请走这边）",
+                    "text": "线路二",
                     "bnt": "进入游戏",
                     "web": "https://www.google.com/"
                 },
                 {
-                    "text": "线路三（注册送58,请走这边）",
+                    "text": "线路三",
                     "bnt": "进入游戏",
                     "web": "https://www.google.com/"
                 }
@@ -44,13 +44,13 @@
             "content": [
                 {
                     "image": "http://104.199.204.78/KZINGBaccarat/images/zhifubao.png",
-                    "text": "快速充值",
+                    "text": "支付宝",
                     "web": "https://www.yahoo.com",
                     "color": "56ABE4"
                 },
                 {
                     "image": "http://104.199.204.78/KZINGBaccarat/images/weixin.png",
-                    "text": "快速充值",
+                    "text": "微信",
                     "web": "https://www.yahoo.com",
                     "color": "73E235"
                 },

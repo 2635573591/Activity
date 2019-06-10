@@ -14,26 +14,6 @@
             "vc":"ViewController5",
             "img":"user",
             "name":"功能设定"
-        },
-        {
-            "vc":"ViewController1",
-            "img":"shouye",
-            "name":"自定义页面1"
-        },
-        {
-            "vc":"ViewController2",
-            "img":"youhui",
-            "name":"自定义页面2"
-        },
-        {
-            "vc":"ViewController6",
-            "img":"xinxi",
-            "name":"自定义页面3"
-        },
-		{
-            "vc":"ViewController7",
-            "img":"zhuce",
-            "name":"自定义页面4"
         }
     ]
 }

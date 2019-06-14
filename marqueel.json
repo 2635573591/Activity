@@ -1,37 +1,35 @@
 {
     "title": "跑馬燈輪播圖",
-    "list": {
-            "type": 1,
-            "msg": "所有活动都免费哦，大家踊跃参加。",
-            "content": [
-                {
-                    "image": "https://2635573591.github.io/Activity/1.png",
-                    "web": ""
-                },
-                {
-                    "image": "https://2635573591.github.io/Activity/2.png",
-                    "web": ""
-                },
-                {
-                    "image": "http://www.g-photography.net/file_picture/3/3587/4.jpg",
-                    "web": ""
-                },
-                {
-                    "image": "s3.jpg",
-                    "web": ""
-                },
-                {
-                    "image": "http://img2.zjolcdn.com/pic/0/13/66/56/13665652_914292.jpg",
-                    "web": ""
-                },
-                {
-                    "image": "http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg",
-                    "web": ""
-                },
-                {
-                    "image": "http://img3.redocn.com/tupian/20150806/weimeisheyingtupian_4779232.jpg",
-                    "web": ""
-                }
-            ]
-     } 
+    "type": 1,
+    "msg": "所有活动都免费哦，大家踊跃参加。",
+    "content":
+    [
+        {
+            "image": "https://2635573591.github.io/Activity/1.png",
+            "web": ""
+        },
+        {
+            "image": "https://2635573591.github.io/Activity/2.png",
+            "web": ""
+        },        {
+            "image": "http://www.g-photography.net/file_picture/3/3587/4.jpg",
+            "web": ""
+        },
+        {
+            "image": "s3.jpg",
+            "web": ""
+        },
+        {
+            "image": "http://img2.zjolcdn.com/pic/0/13/66/56/13665652_914292.jpg",
+            "web": ""
+        },
+        {
+            "image": "http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg",
+            "web": ""
+        },
+        {
+            "image": "http://img3.redocn.com/tupian/20150806/weimeisheyingtupian_4779232.jpg",
+            "web": ""
+        }
+    ]
 }

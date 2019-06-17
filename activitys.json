@@ -1,11 +1,11 @@
 {
     "tintColorHex": "FF2600",
     "list":[
-    	{
-            "vc":"ViewController0",
+	{
+            "vc":"ViewController3",
             "img":"speaker",
-            "name":"所有活动"
-      	},
+            "name":"首页"
+        },
 	{
             "vc":"ViewController4",
             "img":"youhui",
@@ -26,11 +26,11 @@
             "img":"user",
             "name":"功能设定"
         },
-        {
-            "vc":"ViewController3",
+    	{
+            "vc":"ViewController0",
             "img":"speaker",
-            "name":"首页"
-        },
+            "name":"所有活动"
+      	},
 	{
             "vc":"ViewController6",
             "img":"zhuce",

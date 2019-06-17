@@ -2,7 +2,7 @@
     "tintColorHex": "FF2600",
     "list":[
     	{
-            "vc":"ViewController",
+            "vc":"ViewController0",
             "img":"speaker",
             "name":"所有活动"
       	},

@@ -95,13 +95,13 @@
         {
             "type": 3,
             "content":
-            [
+            
                 {
                     "aliPayWebURL": "https://www.alipay.com/",
                     "weChatWebURL": "https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F",
                     "fastPayWebURL": "https://www.mypay.com.tw/"
                 }             
-            ]
+            
         }
     ]
 }

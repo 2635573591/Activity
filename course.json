@@ -97,15 +97,10 @@
             "content":
             [
                 {
-                    "image": "支付寶",
-                    "text": "快速充值",
-                    "web": "https://www.douban.com/event/31694916/"
-                },
-                {                  
-                    "image": "為信",
-                    "text": "快速充值",
-                    "web": "https://www.douban.com/event/29649275/"
-                }
+                    "aliPayWebURL": "https://www.alipay.com/",
+                    "weChatWebURL": "https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F",
+                    "fastPayWebURL": "https://www.mypay.com.tw/"
+                }             
             ]
         }
     ]

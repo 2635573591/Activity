@@ -91,6 +91,22 @@
                     "web": "https://www.douban.com/event/29649275/"
                 }
             ]
+        },
+        {
+            "type": 3,
+            "content":
+            [
+                {
+                    "image": "支付寶",
+                    "text": "快速充值",
+                    "web": "https://www.douban.com/event/31694916/"
+                },
+                {                  
+                    "image": "為信",
+                    "text": "快速充值",
+                    "web": "https://www.douban.com/event/29649275/"
+                }
+            ]
         }
     ]
 }

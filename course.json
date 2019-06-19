@@ -95,13 +95,11 @@
         {
             "type": 3,
             "content":
-            
                 {
                     "aliPayWebURL": "https://www.alipay.com/",
                     "weChatWebURL": "https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F",
                     "fastPayWebURL": "https://www.mypay.com.tw/"
-                }             
-            
+                }                         
         },
         {
             "cellPaddingColor": "888888",
@@ -138,6 +136,14 @@
                     "web": "https://www.douban.com/event/31690460/"
                 }
             ]
+        },
+        {
+            "type": 5,
+            "content":
+                {
+                    "title": "如何進入聖誕派對",
+                    "colour": "666666"                    
+                }                         
         }
     ]
 }

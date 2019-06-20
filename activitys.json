@@ -5,16 +5,6 @@
     "list":
     [
         {
-            "vc": "ViewController3",
-            "img": "speaker",
-            "name": "首页"
-        },
-        {
-            "vc": "ViewController4",
-            "img": "youhui",
-            "name": "活动优惠"
-        },
-        {
             "vc": "ViewController5",
             "img": "xinxi",
             "name": "彩金申请"

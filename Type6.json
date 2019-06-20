@@ -1,1 +1,19 @@
-
+{
+    "type": 6,
+    "content":
+    [
+        {
+            "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+            "text": "",
+            "web": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
+        }
+    ],
+    "subContent":
+    [
+        {
+            "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
+            "text": "",
+            "web": "https://www.douban.com/event/31694916/"
+        }
+    ]
+}

@@ -1,9 +1,12 @@
 {
-            "text": "線路一 （APP登陸後綴:@xjp）",
-            "textColor": "AAAAAA",
-            "textBackgroundColor": "111111",
-            "info": "進入官網",
-            "infoColor": "333333",
-            "infoBackgroundColor": "BBBBBB",
-            "infoWeb": "https://www.douban.com/event/31694916/"
+    "text": "第一組按鈕參數",
+    "textColor": "AAAAAA",
+    "textBackgroundColor": "111111",
+    "textImage": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
+    "textWeb": "http://www.apple.com/tw/",
+    "info": "第二組按鈕參數",
+    "infoColor": "333333",
+    "infoBackgroundColor": "BBBBBB",
+    "infoImage": "https://img3.doubanio.com/pview/event_poster/large/public/125451ad27ddb74.jpg",
+    "infoWeb": "https://www.douban.com/event/31694916/"
 }

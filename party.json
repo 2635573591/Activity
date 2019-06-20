@@ -1,113 +1,25 @@
 {
-    "title": "活动优惠",
-    "backgroundColorHex": "FFFB00",
-    "navBackgroundColorHex": "FFFB00",
     "navImage": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
     "list":
     [
         {
             "type": 6,
             "content":
-            {
-                "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
-                "text": "",
-                "web": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
-            },
+            [
+                {
+                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+                    "text": "",
+                    "web": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
+                }
+            ],
             "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            }
-        },
-        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            }
-        },
-        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            }
-        },        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img3.doubanio.com/pview/event_poster/large/public/125451ad27ddb74.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31506355/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            }
-        },
-        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/14aae562b375719.jpg",
-                "text": "即将到来会计师了的咖啡加适量的开发吉林省的开发聚少离多",
-                "web": "https://www.douban.com/event/31542506/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31694916/"
-            }
-        },
-        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/415dc29717cfaf7.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/31690460/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/9549e472024bb47.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/29649275/"
-            }
-        },
-        {
-            "type": 6,
-            "content":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/14aae562b375719.jpg",
-                "text": "即将到来会计师了的咖啡加适量的开发吉林省的开发聚少离多",
-                "web": "https://www.douban.com/event/31542506/"
-            },
-            "subContent":
-            {
-                "image": "https://img1.doubanio.com/pview/event_poster/large/public/9549e472024bb47.jpg",
-                "text": "",
-                "web": "https://www.douban.com/event/29649275/"
-            }
+            [
+                {
+                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
+                    "text": "",
+                    "web": "https://www.douban.com/event/31694916/"
+                }
+            ]
         }
     ]
 }

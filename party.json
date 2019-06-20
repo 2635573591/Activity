@@ -7,17 +7,16 @@
             "content":
             [
                 {
-                    "image": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
-                    "text": "",
-                    "web": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
-                }
-            ],
-            "subContent":
-            [
+                    "textImage": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+                    "textWeb": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+                    "infoImage": "http://www.g-photography.net/file_picture/3/3587/4.jpg",
+                    "infoWeb": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
+                },
                 {
-                    "image": "https://img1.doubanio.com/pview/event_poster/large/public/63fdb67060ecec8.jpg",
-                    "text": "",
-                    "web": "https://www.douban.com/event/31694916/"
+                    "textImage": "http://img2.zjolcdn.com/pic/0/13/66/56/13665652_914292.jpg",
+                    "textWeb": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+                    "infoImage": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg",
+                    "infoWeb": "https://img3.doubanio.com/pview/event_poster/large/public/3e1c171d029a3ad.jpg"
                 }
             ]
         }

@@ -5,31 +5,31 @@
     "content":
     [
         {
-            "image": "https://2635573591.github.io/Activity/1.png",
-            "web": ""
+            "textImage": "https://2635573591.github.io/Activity/1.png",
+            "textWeb": ""
         },
         {
-            "image": "https://2635573591.github.io/Activity/2.png",
-            "web": ""
+            "textImage": "https://2635573591.github.io/Activity/2.png",
+            "textWeb": ""
         },        {
-            "image": "http://www.g-photography.net/file_picture/3/3587/4.jpg",
-            "web": ""
+            "textImage": "http://www.g-photography.net/file_picture/3/3587/4.jpg",
+            "textWeb": ""
         },
         {
-            "image": "s3.jpg",
-            "web": ""
+            "textImage": "s3.jpg",
+            "textWeb": ""
         },
         {
-            "image": "http://img2.zjolcdn.com/pic/0/13/66/56/13665652_914292.jpg",
-            "web": ""
+            "textImage": "http://img2.zjolcdn.com/pic/0/13/66/56/13665652_914292.jpg",
+            "textWeb": ""
         },
         {
-            "image": "http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg",
-            "web": ""
+            "textImage": "http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg",
+            "textWeb": ""
         },
         {
-            "image": "http://img3.redocn.com/tupian/20150806/weimeisheyingtupian_4779232.jpg",
-            "web": ""
+            "textImage": "http://img3.redocn.com/tupian/20150806/weimeisheyingtupian_4779232.jpg",
+            "textWeb": ""
         }
     ]
 }

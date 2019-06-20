@@ -1,7 +1,8 @@
 {
     "tintColor": "FF2600",
     "navBarColor": "FF9300",
-    "tabBarColr": "FD7322",
+    "tabBarColor": "FD7322",
+    "unSelectedTabBarColor": "CCCCCC",
     "list":
     [
         {

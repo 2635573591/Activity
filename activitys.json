@@ -5,6 +5,11 @@
     "list":
     [
         {
+            "vc": "ViewController0",
+            "img": "zhuce",
+            "name": "Home"
+        },
+        {
             "vc": "ViewController3",
             "img": "speaker",
             "name": "首页"

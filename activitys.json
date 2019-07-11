@@ -1,28 +1,40 @@
 {
-    "tintColor": "FF2600",
-    "tabBarColor": "FD7322",
-    "unSelectedTabBarColor": "CCCCCC",
-    "list":
-    [
-        {
-            "vc": "ViewController0",
-            "img": "zhuce",
-            "name": "Home"
+   "list":[
+           {
+            "vc":"ViewController",
+            "img":"speaker",
+            "name":"所有活动"
         },
         {
-            "vc": "ViewController3",
-            "img": "speaker",
-            "name": "首页"
+            "vc":"ViewController3",
+            "img":"heart",
+            "name":"我的收藏"
         },
         {
-            "vc": "ViewController4",
-            "img": "youhui",
-            "name": "活动优惠"
+            "vc":"ViewController5",
+            "img":"user",
+            "name":"功能设定"
+        },
+		//
+        {
+            "vc":"ViewController1",
+            "img":"shouye",
+            "name":"首页"
         },
         {
-            "vc": "ViewController5",
-            "img": "xinxi",
-            "name": "彩金申请"
+            "vc":"ViewController2",
+            "img":"youhui",
+            "name":"活动优惠"
+        },
+        {
+            "vc":"ViewController6",
+            "img":"xinxi",
+            "name":"彩金申请"
+        },
+		{
+            "vc":"ViewController7",
+            "img":"zhuce",
+            "name":"立即注册"
         }
     ]
 }

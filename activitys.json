@@ -14,27 +14,6 @@
             "vc":"ViewController5",
             "img":"user",
             "name":"功能设定"
-        },
-		//
-        {
-            "vc":"ViewController1",
-            "img":"shouye",
-            "name":"首页"
-        },
-        {
-            "vc":"ViewController2",
-            "img":"youhui",
-            "name":"活动优惠"
-        },
-        {
-            "vc":"ViewController6",
-            "img":"xinxi",
-            "name":"彩金申请"
-        },
-		{
-            "vc":"ViewController7",
-            "img":"zhuce",
-            "name":"立即注册"
         }
     ]
 }
